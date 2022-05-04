@@ -1,0 +1,31 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    color: rgb(0, 41, 128);
+    background-color: rgb(186, 225, 236);
+    border: 4px dashed rgb(21, 13, 129);
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 15px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: rgb(153, 186, 190);
+    box-shadow: 7px 7px 7px white;
+}
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
